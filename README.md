@@ -28,21 +28,24 @@ A collection of works for hardware accelerators in deep learning.
 * A Power-Efficient Accelerator for Convolutional Neural Networks (CLUSTER 2017)
 * In-Datacenter Performance Analysis of a Tensor Processing Unit (ISCA 2017)
 * FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks (HPCA 2017)
+* COSY: An Energy-Efficient Hardware Architecture for Deep Convolutional Neural Networks Based on Systolic Array (ICPADS 2017)
 
 ## Journal Paper
 ### 2016
 ### 2017
-* Embedded Streaming Deep Neural Networks Accelerator With Applications (TNNLS 2017)
-* Efficient Hardware Architectures for Deep Convolutional Neural Network (TCSI 2017)
-* A Reconfigurable Streaming Deep Convolutional Neural Network Accelerator for Internet of Things (TCSI 2017)
-* Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns (TVLSI 2017)
-* Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks (JSSC 2017)
-* Origami: A 803-GOp/s/W Convolutional Network Accelerator (TCSVT 2017)
-* Data and Hardware Efficient Design for Convolutional Neural Network (TCSI 2017)
+* Stripes: Bit-Serial Deep Neural Network Computing (IEEE Computer Architecture Letters 2017 Jan.-June)
+* Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks (JSSC 2017 Jan.)
+* Embedded Streaming Deep Neural Networks Accelerator With Applications (TNNLS 2017 July)
+* Deep Convolutional Neural Network Architecture With Reconfigurable Computation Patterns (TVLSI 2017 Aug.)
+* Origami: A 803-GOp/s/W Convolutional Network Accelerator (TCSVT 2017 Nov.)
 
 ### 2018
 * Angel-Eye: A Complete Design Flow for Mapping CNN Onto Embedded FPGA (TCAD 2018 Jan.)
-* An Architecture to Accelerate Convolution in Deep Neural Networks (TCSI 2018)
+* A Reconfigurable Streaming Deep Convolutional Neural Network Accelerator for Internet of Things (TCSI 2018 Jan.)
+* An Architecture to Accelerate Convolution in Deep Neural Networks (TCSI 2018 April)
+* Data and Hardware Efficient Design for Convolutional Neural Network (TCSI 2018 May)
+* Efficient Hardware Architectures for Deep Convolutional Neural Network (TCSI 2018 June)
+* Optimizing the Convolution Operation to Accelerate Deep Neural Networks on FPGA (TVLSI 2018 Early Access)
 
 ## Accelerator with quantization technique discussed in the paper
 * Going Deeper with Embedded FPGA Platform for Convolutional Neural Network (FPGA 2016)
