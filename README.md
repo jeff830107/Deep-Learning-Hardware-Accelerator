@@ -52,3 +52,20 @@ A collection of works for hardware accelerators in deep learning.
 ## Accelerator with quantization technique discussed in the paper
 * Going Deeper with Embedded FPGA Platform for Convolutional Neural Network (FPGA 2016)
 * Angel-Eye: A Complete Design Flow for Mapping CNN onto Embedded FPGA (ISVLSI 2016)(TCAD 2018 Jan.)
+
+## Paper about bit reduction
+* An Analytical Method to Determine Minimum Per-Layer Precision of Deep Neural Networks (ICASSP 2018)
+* True-Gradient Based Training of Deep Binary Activated Neural Networks via Continuous Binarization (ICASSP 2018)
+
+## Serial Approach Architecture
+* Bit-Pragmatic Deep Neural Network Computing (2016)
+* Stripes: Bit-serial deep neural network computing (MICRO 2016)
+* Stripes: Bit-Serial Deep Neural Network Computing (IEEE Computer Architecture Letters 2017 Jan.-June)
+* Dynamic Stripes：Exploiting the Dynamic Precision Requirements of Activation Values in Neural Networks (2017)
+* Value-Based Deep-Learning Acceleration (IEEE Micro 2018 Jan./Feb.)
+* Exploiting Typical Values to Accelerate Deep Learning (Computer 2018 May)
+* Loom：Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks (DAC 2018)
+
+## Zero-skipping series Architecture
+* Cnvlutin：Ineffectual-Neuron-Free Deep Neural Network Computing (ISCA 2016)
+* Cnvlutin2：Ineffectual-Activation-and-Weight-Free Deep Neural Network Computing (2017)
