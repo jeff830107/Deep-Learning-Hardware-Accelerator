@@ -32,6 +32,8 @@ A collection of works for hardware accelerators in deep learning.
 
 ## Journal Paper
 ### 2016
+* Power-Efficient Accelerator Design for Neural Networks Using Computation Reuse (IEEE Computer Architecture Letters 2016 Jan.-June)
+
 ### 2017
 * Stripes: Bit-Serial Deep Neural Network Computing (IEEE Computer Architecture Letters 2017 Jan.-June)
 * Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks (JSSC 2017 Jan.)
