@@ -16,6 +16,7 @@ A collection of works for hardware accelerators in deep learning.
 * Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks (ISCA 2016)
 * C-brain: A deep learning accelerator that tames the diversity of CNNs through adaptive data-level parallelization (DAC 2016)
 * Stripes: Bit-serial deep neural network computing (MICRO 2016)
+* Design Space Exploration of FPGA-Based Deep Convolutional Neural Networks (ASP-DAC 2016)
 
 ### 2017
 * Optimizing Loop Operation and Dataflow in FPGA Acceleration of Deep Convolutional Neural Networks (FPGA 2017)
