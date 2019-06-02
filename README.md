@@ -31,6 +31,9 @@ A collection of works for hardware accelerators in deep learning.
 * FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks (HPCA 2017)
 * COSY: An Energy-Efficient Hardware Architecture for Deep Convolutional Neural Networks Based on Systolic Array (ICPADS 2017)
 
+### 2019
+* An Energy-Aware Bit-Serial Streaming Deep Comvolutional Neural Network Accelerator (ICIP 2019)
+
 ## Journal Paper
 ### 2016
 * Power-Efficient Accelerator Design for Neural Networks Using Computation Reuse (IEEE Computer Architecture Letters 2016 Jan.-June)
