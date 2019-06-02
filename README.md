@@ -73,5 +73,3 @@ A collection of works for hardware accelerators in deep learning.
 ## Zero-skipping series Architecture
 * Cnvlutin：Ineffectual-Neuron-Free Deep Neural Network Computing (ISCA 2016)
 * Cnvlutin2：Ineffectual-Activation-and-Weight-Free Deep Neural Network Computing (2017)
-[Main]
-1. errc_chm_l1_tbl.ch_stat的目的?
